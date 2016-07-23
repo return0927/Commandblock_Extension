@@ -1,0 +1,42 @@
+/ = /reloadalias
+
+/runas [$player=''] [$=''] = >>>
+	runas($player, $)
+<<<
+/**
+/infod = >>>
+
+	if(get_itemmeta(pheld_slot(player()))['pages'] == '{}'){
+		msg('no')
+	} else {
+		for(@i=0, @i<length(split('\n',replace(replace(get_itemmeta(pheld_slot(player()))['pages'] ,'{',''),'}',''))), @i++){
+			msg(split('\n',replace(replace(get_itemmeta(pheld_slot(player()))['pages'] ,'{',''),'}',''))[@i])
+		}
+		msg('length(): '.length(split('\n',replace(replace(get_itemmeta(pheld_slot(player()))['pages'] ,'{',''),'}',''))))
+	}
+<<<
+
+*:/밥 = >>>
+	runas(~console, '/feed '.player())
+<<<
+
+*:/야간투시 = >>>
+	runas(~console, '/effect '.player().' 16 1000000 1')
+<<<
+
+/인벤 = >>>
+	msg(has_value(player().lastitem))
+	if(has_value(player().lastitem) == true){
+		array @items = get_value(player().lastitem)
+		for (@i=0, @i<length(@items), @i++){
+			add_to_inventory(pinfo(player(),20), @items[@i]['type'], @items[@i]['qty'], @items[@i]['meta'])
+		}
+		clear_value(player().lastitem)
+	}
+<<<
+
+/d = >>>
+	for(@i=0, @i<length(all_entities(pworld())), @i++){
+		msg(@i.': '.all_entities(pworld())[@i])
+	}
+<<<**/

@@ -1,0 +1,49 @@
+2016-07-22 05:33.45 - [CommandHelper][ERROR][RUNTIME] IndexOverflowException: The element at index "5" does not exist
+	<<main code>>:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:30
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:30
+2016-07-22 05:34.24 - [CommandHelper][ERROR][RUNTIME] IndexOverflowException: The element at index "0" does not exist
+	<<main code>>:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:31
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:31
+2016-07-22 05:35.14 - [CommandHelper][ERROR][RUNTIME] Using undefined variable: @j C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:30
+2016-07-22 05:38.25 - [CommandHelper][ERROR][COMPILER] COMPILE ERROR: Incorrect number of arguments passed to array_insert
+	:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:32
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:32
+2016-07-22 05:43.38 - [CommandHelper][ERROR][COMPILER] COMPILE ERROR: Found multiline end symbol, and no multiline start found
+	:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\aliases.msa:34
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\aliases.msa:34
+2016-07-22 05:43.50 - [CommandHelper][ERROR][COMPILER] COMPILE ERROR: Mismatched parenthesis
+	:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\aliases.msa:33
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\aliases.msa:33
+2016-07-22 05:44.19 - [CommandHelper][ERROR][RUNTIME] LengthException: A UUID is expected to be 32 or 36 characters, but the given string was 11 characters.
+	<<main code>>:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\aliases.msa:31
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\aliases.msa:31
+2016-07-22 05:48.45 - [CommandHelper][ERROR][RUNTIME] CastException: Expecting an integer, but received "{data: 0, enchants: {}, meta: null, name: BOOK_AND_QUILL, qty: 1, type: 386}" instead
+	<<main code>>:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:34
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:34
+2016-07-22 06:03.01 - [CommandHelper][ERROR][RUNTIME] LengthException: A UUID is expected to be 32 or 36 characters, but the given string was 64 characters.
+	<<main code>>:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:32
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:32
+2016-07-22 06:03.12 - [CommandHelper][ERROR][RUNTIME] LengthException: A UUID is expected to be 32 or 36 characters, but the given string was 64 characters.
+	<<main code>>:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:32
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:32
+2016-07-22 06:03.41 - [CommandHelper][ERROR][COMPILER] COMPILE ERROR: The function "entity_exist" does not exist in the Java Interpreter
+	:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:32
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:32
+2016-07-22 06:10.24 - [CommandHelper][ERROR][RUNTIME] FormatException: Item value passed to phas_item is invalid: {data: 0, enchants: {}, meta: null, name: LOG, qty: 1, type: 17}
+	<<main code>>:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:48
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:48
+2016-07-22 06:10.24 - [CommandHelper][ERROR][RUNTIME] FormatException: Item value passed to phas_item is invalid: {data: 0, enchants: {}, meta: null, name: LOG, qty: 1, type: 17}
+	<<main code>>:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:48
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:48
+2016-07-22 06:10.25 - [CommandHelper][ERROR][RUNTIME] FormatException: Item value passed to phas_item is invalid: {data: 0, enchants: {}, meta: null, name: LOG, qty: 1, type: 17}
+	<<main code>>:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:48
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:48
+2016-07-22 06:10.25 - [CommandHelper][ERROR][RUNTIME] FormatException: Item value passed to phas_item is invalid: {data: 0, enchants: {}, meta: null, name: LOG, qty: 1, type: 17}
+	<<main code>>:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:48
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:48
+2016-07-22 06:10.25 - [CommandHelper][ERROR][RUNTIME] FormatException: Item value passed to phas_item is invalid: {data: 0, enchants: {}, meta: null, name: LOG, qty: 1, type: 17}
+	<<main code>>:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:48
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:48
+2016-07-22 06:10.25 - [CommandHelper][ERROR][RUNTIME] FormatException: Item value passed to phas_item is invalid: {data: 0, enchants: {}, meta: null, name: LOG, qty: 1, type: 17}
+	<<main code>>:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:48
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:48

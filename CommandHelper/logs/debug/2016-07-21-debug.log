@@ -1,0 +1,51 @@
+2016-07-21 04:30.04 - [CommandHelper][ERROR][COMPILER] COMPILE ERROR: Incorrect number of arguments passed to broadcast
+	:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:1
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:1
+2016-07-21 04:34.14 - [CommandHelper][ERROR][RUNTIME] IncludeException: There was a compile error when trying to include the script at C:\Users\Return\Desktop\Ook\plugins\CommandHelper\auto_include.ms
+Procedure names must start with an underscore, and may only contain letters, underscores, and digits. (Found cb_extension) :: auto_include.ms:40
+
+2016-07-21 04:34.26 - [CommandHelper][ERROR][RUNTIME] IncludeException: There was a compile error when trying to include the script at C:\Users\Return\Desktop\Ook\plugins\CommandHelper\auto_include.ms
+Procedure names must start with an underscore, and may only contain letters, underscores, and digits. (Found cb_extension) :: auto_include.ms:40
+
+2016-07-21 04:34.26 - [CommandHelper][ERROR][RUNTIME] IncludeException: There was a compile error when trying to include the script at C:\Users\Return\Desktop\Ook\plugins\CommandHelper\auto_include.ms
+Procedure names must start with an underscore, and may only contain letters, underscores, and digits. (Found cb_extension) :: auto_include.ms:40
+
+2016-07-21 04:34.26 - [CommandHelper][ERROR][COMPILER] COMPILE ERROR: The function "cb_extension" does not exist in the Java Interpreter
+	:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:1
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:1
+2016-07-21 04:34.41 - [CommandHelper][ERROR][RUNTIME] IncludeException: There was a compile error when trying to include the script at C:\Users\Return\Desktop\Ook\plugins\CommandHelper\auto_include.ms
+Procedure names must start with an underscore, and may only contain letters, underscores, and digits. (Found cb_extension) :: auto_include.ms:40
+
+2016-07-21 04:34.41 - [CommandHelper][ERROR][RUNTIME] IncludeException: There was a compile error when trying to include the script at C:\Users\Return\Desktop\Ook\plugins\CommandHelper\auto_include.ms
+Procedure names must start with an underscore, and may only contain letters, underscores, and digits. (Found cb_extension) :: auto_include.ms:40
+
+2016-07-21 04:34.41 - [CommandHelper][ERROR][COMPILER] COMPILE ERROR: The function "cb_extension" does not exist in the Java Interpreter
+	:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:1
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:1
+2016-07-21 04:34.45 - [CommandHelper][ERROR][RUNTIME] IncludeException: There was a compile error when trying to include the script at C:\Users\Return\Desktop\Ook\plugins\CommandHelper\auto_include.ms
+Procedure names must start with an underscore, and may only contain letters, underscores, and digits. (Found cb_extension) :: auto_include.ms:40
+
+2016-07-21 04:34.45 - [CommandHelper][ERROR][RUNTIME] IncludeException: There was a compile error when trying to include the script at C:\Users\Return\Desktop\Ook\plugins\CommandHelper\auto_include.ms
+Procedure names must start with an underscore, and may only contain letters, underscores, and digits. (Found cb_extension) :: auto_include.ms:40
+
+2016-07-21 04:34.45 - [CommandHelper][ERROR][COMPILER] COMPILE ERROR: The function "cb_extension" does not exist in the Java Interpreter
+	:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:1
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:1
+2016-07-21 04:36.24 - [CommandHelper][ERROR][RUNTIME] IncludeException: There was a compile error when trying to include the script at C:\Users\Return\Desktop\Ook\plugins\CommandHelper\auto_include.ms
+Procedure names must start with an underscore, and may only contain letters, underscores, and digits. (Found cb_extension) :: auto_include.ms:40
+
+2016-07-21 04:36.24 - [CommandHelper][ERROR][RUNTIME] IncludeException: There was a compile error when trying to include the script at C:\Users\Return\Desktop\Ook\plugins\CommandHelper\auto_include.ms
+Procedure names must start with an underscore, and may only contain letters, underscores, and digits. (Found cb_extension) :: auto_include.ms:40
+
+2016-07-21 04:36.24 - [CommandHelper][ERROR][COMPILER] COMPILE ERROR: The function "cb_extension" does not exist in the Java Interpreter
+	:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:1
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:1
+2016-07-21 04:39.05 - [CommandHelper][ERROR][COMPILER] COMPILE ERROR: Unended string literal. You started the last single quote on line 23
+	:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:25
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:25
+2016-07-21 04:39.16 - [CommandHelper][ERROR][COMPILER] COMPILE ERROR: Unended string literal. You started the last single quote on line 23
+	:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:25
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:25
+2016-07-21 04:41.04 - [CommandHelper][ERROR][RUNTIME] CastException: Argument 1 of array_get must be an array
+	<<main code>>:C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:9
+ C:\Users\Return\Desktop\Ook\plugins\CommandHelper\main.ms:9
