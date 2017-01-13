@@ -2,7 +2,7 @@
 [Minecraft] This is commandhelper-3.3.2 script allows you to command with book and quarel.
 
 
-This project was made for 공갈(나유준) and his broadcasting crews.
+This project was made for 공갈(나유준) also famous for 'Konggal TV' and his broadcasting crews.
 
 
 This plugin was played at:
